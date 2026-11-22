@@ -1,0 +1,45 @@
+# 自定义添加
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,emby2.yun139.dpdns.org
+DOMAIN-SUFFIX,emby.yun139.dpdns.org
+
+# GitHub 反代 CDN
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,gh.con.sh
+DOMAIN-SUFFIX,gh.ddlc.top
+DOMAIN-SUFFIX,gh.llkk.cc
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-SUFFIX,ghproxy.cfd
+DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,git.886.be
+DOMAIN-SUFFIX,github.abskoop.workers.dev
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,github.moeyy.xyz
+DOMAIN-SUFFIX,github.site
+DOMAIN-SUFFIX,github.store
+DOMAIN-SUFFIX,hub.gitmirror.com
+#DOMAIN-SUFFIX,jsdelivr.com
+#DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,kgithub.com
+
+# Docker 反代 CDN
+DOMAIN-SUFFIX,docker.1panel.live
+DOMAIN-SUFFIX,docker.kejilion.pro
+DOMAIN-SUFFIX,docker.unsee.tech
+DOMAIN-SUFFIX,dockerpull.pw
+DOMAIN-SUFFIX,dockerpull.org
+DOMAIN-SUFFIX,dhub.kubesre.xyz
+DOMAIN-SUFFIX,hub.crdz.gq
+DOMAIN-SUFFIX,hub.rat.dev
+DOMAIN-SUFFIX,hub.xdark.top
+DOMAIN-SUFFIX,registry.dockermirror.com
+
+# Hugging Face 镜像
+DOMAIN-SUFFIX,hf-mirror.com
+
+# DDNS
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,members.3322.org
